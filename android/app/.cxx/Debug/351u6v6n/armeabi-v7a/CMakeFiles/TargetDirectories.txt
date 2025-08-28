@@ -1,0 +1,2 @@
+C:/Users/as729/OneDrive/Apps/Desktop/Courses/Flutter/fitness_tracker/android/app/.cxx/Debug/351u6v6n/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/as729/OneDrive/Apps/Desktop/Courses/Flutter/fitness_tracker/android/app/.cxx/Debug/351u6v6n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
